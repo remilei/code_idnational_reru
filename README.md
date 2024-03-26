@@ -1,4 +1,12 @@
-Le fichier de code permettant de générer l'identifiant national tel que présenté dans le papier publié dans la Revue d'Économie Régionale et Urbaine est disponible ici.
+Ce dépôt contient le matériel associé à l'article ``Évolution de la structure de la propriété immobilière en France'' à paraître dans la *Revue d'Économie Régionale & Urbaine*. Il permet de générer à partir des Fichiers Fonciers non anonymisés un identifiant national unique propriétaire. Le dépôt contient :
+
+- Le code pour générer l'identifiant retenu
+- La procédure pour réaliser les tables de passage identifiant actuel -- identifiant corrigé
+- Une anonymisation de l'identifiant retenu
+
+## Credits
+
+Pour signaler un problème dans le code, des suggestions ou commenter le travail, ouvrir un *issue* sur GitHub ou nous contacter par email.
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
