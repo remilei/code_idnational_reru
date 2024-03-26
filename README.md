@@ -1,7 +1,7 @@
-Ce dépôt contient le matériel associé à l'article ``Évolution de la structure de la propriété immobilière en France'' à paraître dans la *Revue d'Économie Régionale & Urbaine*. Il permet de générer à partir des Fichiers Fonciers non anonymisés un identifiant national unique propriétaire. Le dépôt contient :
+Ce dépôt contient le matériel associé à l'article ''Évolution de la structure de la propriété immobilière en France'' à paraître dans la *Revue d'Économie Régionale & Urbaine*. Il permet de générer à partir des Fichiers Fonciers non anonymisés un identifiant national unique propriétaire. Le dépôt contient :
 
 - Le code pour générer l'identifiant retenu
-- La procédure pour réaliser les tables de passage identifiant actuel -- identifiant corrigé
+- La procédure pour réaliser les tables de passage identifiant actuel - identifiant corrigé
 - Une anonymisation de l'identifiant retenu
 
 ## Credits
